@@ -1,5 +1,5 @@
-# 白描证件照
-[官网](https://zjz.uzero.cn/)
+# 白描
+[官网](https://baimiao.uzero.cn/)
 
 
 # 食用说明
